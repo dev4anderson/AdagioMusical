@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Sobre</string>
+    <string name="app_name">Adagio Musical</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="remember">Manter Conectado</string>
+    <string name="sign_out">Sair</string>
+    <string name="new_item">Novo Item</string>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+    <string name="version">Versão 1.0</string>
+    <string name="developed_by">Desenvolvido por: Anderson Macedo</string>
+    <string name="ok">Ok</string>
+    <string name="model">Modelo</string>
+    <string name="brand">Marca</string>
+    <string name="register">Salvar</string>
+    <string name="quantity">Quantidade</string>
+    <string name="instrument">Instrumento</string>
+    <string name="created">criado</string>
+</resources>
